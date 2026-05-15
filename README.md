@@ -43,14 +43,6 @@ Projekt łączy **programowanie GUI**, **obliczenia naukowe** oraz **wizualizacj
 
 ---
 
-## 📸 Zrzuty ekranu
-
-![Logo i interfejs](logo.png)
-
-*(Wizualizacje generowane dynamicznie – przykładowy wykres kołowy i słupkowy po obliczeniach)*
-
----
-
 ## 🚀 Jak uruchomić
 
 ```bash
